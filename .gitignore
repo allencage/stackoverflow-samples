@@ -259,3 +259,9 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/recursion-issue-vs2017.sln
+/recursion-issue-vs2017
+/recursion-issue-vs2017.sln
+/recursion-issue-vs2017
+/recursion-issue-vs2017.sln
+/recursion-issue-vs2017
